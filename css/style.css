@@ -415,7 +415,7 @@ body {
 	display: flex;
 	position:absolute;
 	left: 16%;
-	top: 20%;
+	top: 30%;
 	background: none;
 }
 .Vacancy {
@@ -3136,7 +3136,7 @@ header.sticky .toggle {
 .div {
 	position: relative;
 	left: -10%;
-	top: 100px;
+	top: 160px;
 }
 .fn_1 {
 	position: relative;

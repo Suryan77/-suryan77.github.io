@@ -173,7 +173,7 @@ body {
 	height: 50px;
 }
 .phone i {
-	font-size: 17px;
+	font-size: 25px;
 	margin: 10px;
 	color: blue;
 }
@@ -3069,7 +3069,7 @@ header.sticky .toggle {
     position: absolute;
     right: 0;
     left: 0;
-    top: 23%;
+    top: 27%;
     margin: auto;
 }
 
